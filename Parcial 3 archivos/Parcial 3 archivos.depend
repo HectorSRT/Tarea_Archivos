@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670121875 source:c:\users\hector\onedrive\documentos\estructuras mirne\parcial 3 archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
